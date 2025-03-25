@@ -3,7 +3,7 @@
 ___________________________________________________________________________________________________________________________________________________
 
 ### ->> Data Processing and Cleaning.
-####
+#### 
 
 
 ![Screenshot 2025-03-25 014628](https://github.com/user-attachments/assets/fca17236-5ee4-440b-a853-2d44df08c853)
@@ -25,7 +25,7 @@ ________________________________________________________________________________
 #### . With only 12.12% of restaurants offering table reservations, fine-dining venues should be encouraged to adopt this feature.
 #### . Offer bundled meal deals or special discounts for highly rated cuisines.
 
-### . CONCLUSION
+### -->> CONCLUSION
 #### . New markets should be explored, particularly in under-served cities.
 #### . Online delivery and table booking features need significant expansion.
 #### . Improving restaurant ratings through customer service & food quality enhancements should be a priority.
