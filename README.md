@@ -3,8 +3,17 @@
 ___________________________________________________________________________________________________________________________________________________
 
 ### ->> Data Processing and Cleaning.
-#### 
+#### Upload Excel File into Power Query Editor 
+#### Data -> Get Data -> From File -> Choose From Excel Workbook -> Transform Data
 
+### Make Charts and Graphs:-
+#### 1. Slicer - Make two slicers (Year and Country) through which we filter data year wise and counttry wise.
+#### 2. Clustured Column Chart - This analyze the numnber of restaurant city wise.
+#### 3. Line and Stacked Column Chart - This analyzes the count of cuisnes and average rating of cuisines.
+#### 4. Pie Chart - This analyze the percentage of table booking status
+#### 5. Donut Chart - This analyze the percentage of online delievery status.
+#### 6. Clustured Bar Chart - This analyze the number of restaurants cuisine wise.
+#### 7. Cards - Total Restaurants, Countries, Cities, Cuisines, Votes, Ratng at top of the dashboard which gives the summary of sales.
 
 ![Screenshot 2025-03-25 014628](https://github.com/user-attachments/assets/fca17236-5ee4-440b-a853-2d44df08c853)
 ### -->> INSIGHTS
